@@ -20,6 +20,8 @@ namespace POO3C146
             InitializeComponent();
         }
 
+        /// Projeto feito em dupla by Sophia(30) e Larissa(16)
+
         private void label1_Click(object sender, EventArgs e)
         {
 

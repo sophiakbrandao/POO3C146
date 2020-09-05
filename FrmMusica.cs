@@ -158,6 +158,9 @@ namespace POO3C146
             txtAutor.Clear();
             cbxGravadora.Text = "";
             cbxCD.Text = "";
+
+            this.btnDeletar.Enabled = false;
+            this.btnAlterar.Enabled = false;
         }
     }
 }
